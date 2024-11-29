@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I’m passionate about technology, especially mobi
 ### 📚 What I’m Learning
 - Deep dive into **Flutter** for building scalable and responsive apps.
 - Advanced **Android development** with **Kotlin** for native applications.
-- Backend integration for mobile apps with **REST APIs** and **GraphQL**.
+
 
 ---
 
