@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I’m passionate about technology, coding, and con
 ---
 
 ### 📈 GitHub Stats
-![Hrishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME-HRISH-ABH&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-HRISH-ABH&layout=compact&theme=radical)
+![Hrishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HRISH-ABH&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HRISH-ABH&layout=compact&theme=radical)
 
 ---
 
