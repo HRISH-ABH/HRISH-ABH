@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I’m passionate about technology, especially mobi
 ### 🏆 LeetCode Stats
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME)](https://leetcode.com/BlackLeg_11/)
 
-> Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.
+
 
 ---
 
