@@ -46,9 +46,8 @@ Welcome to my GitHub profile! I’m passionate about technology, coding, and con
 ---
 
 ### 💬 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🎮 Steam: [your-steam-id](https://steamcommunity.com/id/your-steam-id)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hrish-abh/)
+- 📧 Email: [hrishabh.social@gmail.com](mailto:hrishabh.social@gmail.com)
 
 ---
 
