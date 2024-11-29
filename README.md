@@ -1,47 +1,53 @@
 # Hi there 👋, I'm Hrishabh!
 
-Welcome to my GitHub profile! I’m passionate about technology, coding, and constantly learning to build innovative solutions.
+Welcome to my GitHub profile! I’m passionate about technology, especially mobile development, and constantly learning to build innovative solutions. I enjoy solving problems and building applications that make life easier for users.
 
 ---
 
 ### 🚀 About Me
 - 🎓 Final Year B.Tech IT student with a CGPA of **8.59**.
-- 🌱 Currently preparing for **GATE 2025** and exploring **cybersecurity** as a career option.
-- 💻 Aspiring **Android Developer** aiming to become a pro and secure high-paying remote opportunities.
-- 🔧 Working on exciting **Flutter projects**, including feature-rich apps with FirebaseAuth and backend integration.
+- 💻 Aspiring **Mobile Developer** focused on **Flutter** and **Android** development, building apps with sleek UIs and robust backend integration.
+- 🔧 Currently working on several **Flutter projects**, including feature-rich apps with **Firebase** and **REST APIs**.
+- 🧩 A problem-solving enthusiast with experience in algorithmic challenges and data structures.
 - 🎮 A gamer at heart – enjoying titles optimized for Ryzen 5 5600H and GTX 1650.
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Dart, C++, Java, Python, SQL
-- **Frameworks & Tools**: Flutter, Firebase, Render, Git, VS Code
+- **Languages**: Dart, Kotlin, Java, C++, Python, SQL
+- **Mobile Development**: Flutter, Android, Firebase, Dart
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: MySQL, MongoDB
+- **Database**: MySQL, MongoDB, Firebase Firestore
 - **Version Control**: Git & GitHub
 - **OS**: Linux (Ubuntu), Windows
 
 ---
 
 ### 🌟 Current Goals
-- Build advanced **Android apps** following the roadmap to mastery.
-- Develop a **file-sharing app** for laptops and mobile devices.
-- Prepare for **Accenture coding rounds**.
-- Strengthen problem-solving and coding skills in **C++**.
+- Master **Flutter** and **Android development** to build more sophisticated, cross-platform applications.
+- Contribute to **open-source mobile development** projects and grow my portfolio.
+- Strengthen my **problem-solving** skills by tackling algorithmic challenges on platforms like LeetCode and Codeforces.
 
 ---
 
 ### 📚 What I’m Learning
-- Advanced **Android Development**.
-- Building responsive **Flutter apps** with animations and state management.
-- **Cybersecurity** essentials and ethical hacking fundamentals.
+- Deep dive into **Flutter** for building scalable and responsive apps.
+- Advanced **Android development** with **Kotlin** for native applications.
+- Backend integration for mobile apps with **REST APIs** and **GraphQL**.
 
 ---
 
 ### 📈 GitHub Stats
 ![Hrishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HRISH-ABH&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HRISH-ABH&layout=compact&theme=radical)
+
+---
+
+### 🏆 LeetCode Stats
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME)](https://leetcode.com/BlackLeg_11/)
+
+> Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.
 
 ---
 
