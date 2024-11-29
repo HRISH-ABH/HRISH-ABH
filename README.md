@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I’m passionate about technology, coding, and con
 
 ### 💬 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/hrish-abh/)
-- 📧 Email: [hrishabh.social@gmail.com](mailto:hrishabh.social@gmail.com)
+- 📧 [Email](mailto:hrishabh.social@gmail.com)
 
 ---
 
